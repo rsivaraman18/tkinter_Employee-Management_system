@@ -15,7 +15,7 @@ name = StringVar()
 age  = StringVar()
 doj  = StringVar()
 gender = StringVar()
-email = StringVar()
+email  = StringVar()
 contact = StringVar()
 
 #entry Frame
