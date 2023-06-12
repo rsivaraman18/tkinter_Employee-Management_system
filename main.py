@@ -21,7 +21,7 @@ contact = StringVar()
 #entry Frame
 entries_frame = Frame(root,bg='orange')
 entries_frame.pack(side=TOP,fill=X)
-title=Label(entries_frame,text='Employee Management system',font=('Calibri',18,'bold'),bg='orange',fg='white')
+title =Label(entries_frame,text='Employee Management system',font=('Calibri',18,'bold'),bg='orange',fg='white')
 title.grid(row=0,columnspan=2,padx=10,pady=20)
 
 #Entry Frame name box
