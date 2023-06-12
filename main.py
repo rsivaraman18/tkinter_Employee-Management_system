@@ -141,7 +141,7 @@ btnClear=Button(btn_frame,command=clearall,text='Clear details',width=15,font=('
 
 
 
-#Table frame
+#Table frame 
 tree_frame = Frame(root,bg='lightgreen')
 tree_frame.place(x=0,y=500,width=1366,height=400)
 
