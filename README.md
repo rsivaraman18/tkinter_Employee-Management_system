@@ -1,4 +1,4 @@
-# tkinter_Employee-Management_system
+# tkinter_Employee_Management_system
 
 Employee management system.
 This application is designed using Tkinter in Python.
