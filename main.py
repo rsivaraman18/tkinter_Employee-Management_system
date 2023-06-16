@@ -9,7 +9,7 @@ root = Tk()     #any name instead of root
 #screen size
 root.title('Employee management System')
 root.geometry('1366x768+0+0')       #x=0,y=0
-root.config(bg='lightblue')
+root.config(bg='lightblue') 
 
 name = StringVar()
 age  = StringVar()
