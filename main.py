@@ -5,7 +5,7 @@ from db import Mydatabase
 db=Mydatabase('employee.db')
 
 root = Tk()     #any name instead of root 
-
+ 
 #screen size
 root.title('Employee management System')
 root.geometry('1366x768+0+0')       #x=0,y=0
