@@ -18,7 +18,6 @@ doj  = StringVar()
 gender = StringVar()
 email  = StringVar()
 contact = StringVar()
-
 #entry Frame
 entries_frame = Frame(root,bg='orange')
 entries_frame.pack(side=TOP,fill=X)
