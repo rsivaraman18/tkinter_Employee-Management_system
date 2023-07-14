@@ -4,7 +4,6 @@ from tkinter import messagebox
 from db import Mydatabase
 db=Mydatabase('employee.db')
 
-
 root = Tk()     #any name instead of root 
  
 #screen size
